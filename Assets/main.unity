@@ -731,9 +731,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Mode: 0
   player: {fileID: 619547410}
-  goal0: {fileID: 0}
-  goal1: {fileID: 0}
-  goal2: {fileID: 0}
   speed: 3
   limitDistance: 0
 --- !u!54 &879401396
@@ -921,9 +918,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Mode: 0
   player: {fileID: 619547410}
-  goal0: {fileID: 0}
-  goal1: {fileID: 0}
-  goal2: {fileID: 0}
   speed: 3
   limitDistance: 1000
 --- !u!54 &964939038
